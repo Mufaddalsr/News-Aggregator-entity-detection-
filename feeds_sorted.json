@@ -1,0 +1,537 @@
+[{
+        "source": "CNBC",
+        "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Home Page (U.S.)",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "World",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Africa",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Americas",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Asia Pacific",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Europe",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Middle East",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "U.S.",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Education",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Politics",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "The Upshot",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "N.Y./Region",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Business",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Energy & Environment",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Small Business",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Economy",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "DealBook",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Media & Advertising",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Your Money",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Technology",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Personal Tech",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Sports",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Baseball",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "College Basketball",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "College Football",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Golf",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Hockey",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Pro-Basketball",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Pro-Football",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Soccer",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Tennis",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Science",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Environment",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Space & Cosmos",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Health",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Well Blog",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Arts",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Art & Design",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Book Review",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Dance",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Movies",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Music",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Television",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Theater",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Fashion & Style",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Dining & Wine",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Love",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "T Magazine",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Travel",
+        "link": "https://www.nytimes.com/services/xml/rss/nyt/Travel.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Jobs",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Real Estate",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Autos",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Lens Blog",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Obituaries",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Most E-Mailed",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Most Shared",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Most Viewed",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Charles M. Blow",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/charles-m-blow/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Jamelle Bouie",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/jamelle-bouie/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "David Brooks",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-brooks/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Frank Bruni",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/frank-bruni/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Gail Collins",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/gail-collins/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Ross Douthat",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Maureen Dowd",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/maureen-dowd/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Thomas L. Friedman",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Michelle Goldberg",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/michelle-goldberg/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Ezra Klein",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Nicholas D. Kristof",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/nicholas-kristof/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Paul Krugman",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Farhad Manjoo",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/farhad-manjoo/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Bret Stephens",
+        "link": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/bret-stephens/rss.xml"
+    },
+    {
+        "source": "NYTimes",
+        "section": "Sunday Opinion",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_topstories.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_latest.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_world.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_us.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/money_latest.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_tech.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_health.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_showbiz.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_travel.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/services/podcasting/cnn10/rss.xml"
+    },
+    {
+        "source": "CNN",
+        "link": "http://rss.cnn.com/rss/cnn_freevideo.rss"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/live-news/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/latest/news/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/world/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/us/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/politics/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/health/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/technology/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/entertainment/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/news/science/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/cbsnews-investigates/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/cbs-mornings/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/cbs-evening-news/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/60-minutes/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/sunday-morning/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/face-the-nation/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/48-hours/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/cbs-saturday-morning/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/cbs-reports/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/cbs-news-mornings/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/america-decides/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/prime-time/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/the-takeout/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/uplift/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/eye-on-america/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/here-comes-the-sun/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/the-dish/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/person-to-person/"
+    },
+    {
+        "source": "CNN",
+        "link": "https://www.cbsnews.com/weekender/"
+    },
+    {
+        "source": "Reuters",
+        "link": "http://feeds.reuters.com/Reuters/domesticNews"
+    },
+    {
+        "source": "FOX News",
+        "link": "http://feeds.foxnews.com/foxnews/national"
+    },
+    {
+        "source": "CNN.com",
+        "link": "http://rss.cnn.com/rss/edition_us.rss"
+    }
+]
